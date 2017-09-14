@@ -1,0 +1,1 @@
+/home/rauli/.config/fisherman/fnm/functions/node.fish
