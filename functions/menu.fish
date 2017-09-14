@@ -1,1 +1,0 @@
-/home/rauli/.config/fisherman/menu/menu.fish

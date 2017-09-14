@@ -1,1 +1,0 @@
-/home/rauli/.config/fisherman/fnm/conf.d/fnm.fish

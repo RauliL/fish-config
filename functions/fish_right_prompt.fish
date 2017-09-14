@@ -1,1 +1,0 @@
-/home/rauli/.config/fisherman/simple/functions/fish_right_prompt.fish

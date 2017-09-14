@@ -1,1 +1,0 @@
-/home/rauli/.config/fisherman/await/functions/await.fish
