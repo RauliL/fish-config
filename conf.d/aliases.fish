@@ -1,0 +1,5 @@
+alias f='find'
+alias g='git'
+alias h='history'
+alias m='make'
+alias x='exit'
