@@ -63,6 +63,8 @@
 /functions/npm.fish
 /functions/npx.fish
 /functions/nvm.fish
+/functions/nvm_alias_command.fish
+/functions/nvm_alias_function.fish
 /functions/pwd_info.fish
 /functions/pwd_is_home.fish
 /functions/spin.fish
