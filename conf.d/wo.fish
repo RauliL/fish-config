@@ -1,7 +1,7 @@
 function wo
     set -l project $argv[1]
     set -l project_dir "$HOME/project/$project"
-    set -l venv_dir "$HOME/project/venv/$project"
+    set -l venv_dir "$HOME/project/$project/venv"
 
     if [ -d "$project_dir" -a -d "$venv_dir" ]
         if [ -n "$VIRTUAL_ENV" ]
