@@ -9,3 +9,9 @@ alias x='exit'
 if which bat > /dev/null 2>&1
     alias cat='bat'
 end
+
+# Use exa instead of ls, if it's installed on the system.
+# See: https://github.com/ogham/exa
+if which exa > /dev/null 2>&1
+    alias ls='exa'
+end
