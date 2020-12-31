@@ -1,8 +1,5 @@
 /completions
-/conf.d
-!/conf.d/aliases.fish
-!/conf.d/rs.fish
-!/conf.d/wo.fish
+/conf.d/fnm.fish
 /fishd.*
 /fish_history
 /functions
