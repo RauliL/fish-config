@@ -6,7 +6,9 @@ alias x='exit'
 
 # Use bat instead of cat, if it's installed on the system.
 # See: https://github.com/sharkdp/bat
-if which bat > /dev/null 2>&1
+if which batcat > /dev/null 2>&1
+    alias cat='batcat'
+else if which bat > /dev/null 2>&1
     alias cat='bat'
 end
 
