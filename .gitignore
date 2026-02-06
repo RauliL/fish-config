@@ -2,5 +2,6 @@
 /conf.d/fnm.fish
 /fishd.*
 /fish_history
+/fish_variables
 /functions
 !/functions/fisher.fish
