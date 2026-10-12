@@ -1,3 +1,8 @@
+# Add local executables to the $PATH environment variable.
+if test -d $HOME/.local/bin
+    fish_add_path -a $HOME/.local/bin
+end
+
 # Add executables installed by `npm install -g` to the $PATH environment
 # variable.
 if test -d $HOME/.npm-global/bin
